@@ -5,7 +5,7 @@ public class heroi {
         String categoriaExperiencia = "Ferro";
         int qtdExperiencia;
         Scanner recebe = new Scanner(System.in);
-        System.out.print("Nome do Heroi: ");
+        System.out.print("Nome do Heroi: - -  ");
         heroi = recebe.nextLine();
         System.out.print("Experiência: ");
         qtdExperiencia = recebe.nextInt();
